@@ -6,7 +6,7 @@ public class Two {
     int N;
     int [] array;
 
-    private static Logger log = Logger.getLogger(Two.class.getRes());
+    private static Logger log = Logger.getLogger(Two.class());
 	    
     Two() {
         Scanner in = new Scanner(System.in);
